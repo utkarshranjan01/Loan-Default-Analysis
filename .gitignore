@@ -1,34 +1,35 @@
-# Python virtual environment
-venv/
-env/
-ENV/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
-# Python cache files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-
-# VS Code settings
-.vscode/
-*.code-workspace
-
-# Mac OS files
-.DS_Store
-
-# Local environment variables
-.env
-
+# # Python virtual environment
+# venv/
+# env/
+# ENV/
+#
+# # Jupyter Notebook checkpoints
+# .ipynb_checkpoints/
+# */.ipynb_checkpoints/*
+#
+# # Python cache files
+# __pycache__/
+# *.py[cod]
+# *$py.class
+#
+# # Distribution / packaging
+# dist/
+# build/
+# *.egg-info/
+#
+# # VS Code settings
+# .vscode/
+# *.code-workspace
+#
+# # Mac OS files
+# .DS_Store
+#
+# # Local environment variables
+# .env
+#
 # Ignore all files except specified ones
 *
 !file.ipynb
 !loan_default.csv
 !.gitignore
+!.README.md
